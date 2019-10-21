@@ -1,9 +1,19 @@
 <ion-header>
-  <ion-toolbar>
+  <ion-toolbar color="danger">
     <ion-title>login</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
+
+  <form [formGroup]="formulaire" (ngSubmit)="onSubmit()">
+     <ion-item>
+       <ion-input type="text" formControlName="username" [ngClass]="{ 'is-invalid': submitted && f.username.errors }" placeholder="Entrer votre login"></ion-input>
+     </ion-item>
+    <ion-item>
+      <ion-input type="password" formControlName="password" [ngClass]="{ 'is-invalid': submitted && f.password.errors }" placeholder="Entrer votre mot de passe"></ion-input>
+    </ion-item>
+    <ion-button type="submit" expand="block">Connexion</ion-button>
+  </form>
 
 </ion-content>

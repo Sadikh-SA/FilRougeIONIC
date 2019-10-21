@@ -1,5 +1,7 @@
 {
   "name": "FilRougeIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
