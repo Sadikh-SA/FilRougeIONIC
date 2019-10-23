@@ -6,11 +6,6 @@
       <change afterPath="$PROJECT_DIR$/../FilRouge/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FilRouge/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FilRouge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JHipster/.jhipster/Client.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JHipster/.jhipster/Transaction.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JHipster/src/main/java/sn/sa/devweb/domain/Client.java" afterDir="false" />
@@ -75,14 +70,7 @@
       <change afterPath="$PROJECT_DIR$/../TestAndroid/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestAndroid/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestAndroid/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/login/login.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/login/login.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/transaction/transaction.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/transaction/transaction.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/transaction/transaction.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/transaction/transaction.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/transaction/transaction.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/transaction/transaction.page.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JHipster/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../JHipster/.yo-rc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JHipster/src/main/java/sn/sa/devweb/config/CacheConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JHipster/src/main/java/sn/sa/devweb/config/CacheConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JHipster/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../JHipster/src/main/resources/config/application-dev.yml" afterDir="false" />
@@ -555,6 +543,7 @@
       <workItem from="1571647004008" duration="12620000" />
       <workItem from="1571668915473" duration="3994000" />
       <workItem from="1571741512110" duration="9011000" />
+      <workItem from="1571826595877" duration="794000" />
     </task>
     <servers />
   </component>

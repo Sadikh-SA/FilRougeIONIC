@@ -13,7 +13,8 @@ const routes: Routes = [
     component: MenuPage,
     children: [
       { path: 'transaction', loadChildren: '../transaction/transaction.module#TransactionPageModule' },
-      { path: 'home', loadChildren: '../home/home.module#HomePageModule'}
+      { path: 'home', loadChildren: '../home/home.module#HomePageModule'},
+      { path: 'details', loadChildren: '../details/details.module#DetailsPageModule' },
     ]
   },
 ];
