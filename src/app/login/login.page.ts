@@ -59,11 +59,11 @@ export class LoginPage implements OnInit {
                 console.log(localStorage.getItem("token"))
 
                 if (this.authService.isAdminWari() || this.authService.isSuperAdmin() || this.authService.isPartener() || this.authService.isAdminPartener() ) {
-                    this.router.navigateByUrl("/")
+                    this.router.navigateByUrl("/menu/home")
                 } else if (this.authService.isCaissier()) {
-                    this.router.navigateByUrl("/")
+                    this.router.navigateByUrl("/menu/transaction")
                 } else if(this.authService.isUser()) {
-                    this.router.navigateByUrl("/")
+                    this.router.navigateByUrl("/menu/transaction")
                 }
             },
             err => {

@@ -6,169 +6,11 @@
       <change afterPath="$PROJECT_DIR$/../FilRouge/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FilRouge/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FilRouge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/bundles/core.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/config/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/index.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/jestConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwt.interceptor.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwt.interceptor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwt.interceptor.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwthelper.service.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwthelper.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwthelper.service.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwtoptions.token.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwtoptions.token.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/src/jwtoptions.token.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@auth0/angular-jwt/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/bundles/ngx-toastr.umd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/bundles/ngx-toastr.umd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/bundles/ngx-toastr.umd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/bundles/ngx-toastr.umd.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/ngx-toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/overlay/overlay-container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/overlay/overlay-ref.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/overlay/overlay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/portal/dom-portal-host.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/portal/portal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/public_api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/toastr/toast-injector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/toastr/toast-noanimation.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/toastr/toast.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/toastr/toast.directive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/toastr/toastr-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/toastr/toastr.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm2015/toastr/toastr.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/ngx-toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/overlay/overlay-container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/overlay/overlay-ref.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/overlay/overlay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/portal/dom-portal-host.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/portal/portal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/public_api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/toastr/toast-injector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/toastr/toast-noanimation.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/toastr/toast.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/toastr/toast.directive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/toastr/toastr-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/toastr/toastr.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/esm5/toastr/toastr.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/fesm2015/ngx-toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/fesm2015/ngx-toastr.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/fesm5/ngx-toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/fesm5/ngx-toastr.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/ngx-toastr.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/ngx-toastr.metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/overlay/overlay-container.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/overlay/overlay-ref.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/overlay/overlay.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/portal/dom-portal-host.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/portal/portal.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/public_api.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr-bs4-alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr-old.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr/toast-injector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr/toast-noanimation.component.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr/toast.component.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr/toast.directive.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr/toastr-config.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr/toastr.module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ngx-toastr/toastr/toastr.service.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/bin/postinstall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/dist/sweetalert2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/SweetAlert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/enhancers/withNoNewKeyword.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/globalState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/_main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/buttons-handlers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/close.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/enable-disable-elements.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/getInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/hideLoading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/keydown-handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/popup-click-handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/progress-steps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/show-reset-validation-error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/instanceMethods/update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/privateMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/privateProps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_body.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_polyfills.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_theming.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_toasts-animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_toasts-body.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/scss/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/argsToParams.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/dom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/fire.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/mixin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/showLoading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/staticMethods/timer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/sweetalert2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/sweetalert2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/DismissReason.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/Timer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/aria.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/defaultInputValidators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/animationEndEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/domUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/getters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/inputUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/measureScrollbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/parseHtmlToContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/render.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderCloseButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderContent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderImage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderPopup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderProgressSteps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/dom/renderers/renderTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/ieFix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/iosFix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/isNodeEnv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/openPopup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/params.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/scrollbarFix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/setParameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/utils/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/src/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/sweetalert2/sweetalert2.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/menu.page.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JHipster/.jhipster/Client.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JHipster/.jhipster/Transaction.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JHipster/src/main/java/sn/sa/devweb/domain/Client.java" afterDir="false" />
@@ -233,18 +75,14 @@
       <change afterPath="$PROJECT_DIR$/../TestAndroid/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestAndroid/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestAndroid/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/ionic.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@ionic/angular-toolkit/assets/consolelog-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@ionic/angular-toolkit/assets/consolelog-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/login/login.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/login/login.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/login/login.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/services/authentification.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/authentification.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/transaction/transaction.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/transaction/transaction.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/transaction/transaction.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/transaction/transaction.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/transaction/transaction.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/transaction/transaction.page.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JHipster/.yo-rc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../JHipster/.yo-rc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JHipster/src/main/java/sn/sa/devweb/config/CacheConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JHipster/src/main/java/sn/sa/devweb/config/CacheConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JHipster/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../JHipster/src/main/resources/config/application-dev.yml" afterDir="false" />
@@ -652,8 +490,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SHchf1OEnDRfaqQ2BMFDTzHZtL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
@@ -711,7 +552,9 @@
       <option name="presentableId" value="Default" />
       <updated>1571224082323</updated>
       <workItem from="1571224083983" duration="5388000" />
-      <workItem from="1571647004008" duration="8504000" />
+      <workItem from="1571647004008" duration="12620000" />
+      <workItem from="1571668915473" duration="3994000" />
+      <workItem from="1571741512110" duration="9011000" />
     </task>
     <servers />
   </component>
@@ -730,5 +573,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

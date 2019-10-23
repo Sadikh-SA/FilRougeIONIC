@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Validators, FormBuilder, FormGroup, FormControl } from '@angular/forms';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-transaction',
@@ -7,9 +9,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TransactionPage implements OnInit {
 
-  constructor() { }
 
-  ngOnInit() {
-  }
+ // validations_form: FormGroup;
+
+  constructor(
+      public formBuilder: FormBuilder,
+      private router: Router
+  ) { }
+
+  ngOnInit() {}
 
 }
